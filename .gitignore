@@ -1,4 +1,3 @@
-venv/
-.idea/
-config.py
-f
+/venv
+/.idea
+/config.py
